@@ -1,4 +1,4 @@
-let darkMode = true
+let darkMode = false
 const buttonToggle = document.getElementById('toggle-mode')
 
 buttonToggle.addEventListener('click', (event) => {
